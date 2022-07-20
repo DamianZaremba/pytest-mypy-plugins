@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 dependencies = [
     "pytest>=6.0.0",
-    "mypy>=0.900",
+    "mypy>=0.971",
     "decorator",
     "pyyaml",
     "chevron",
